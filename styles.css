@@ -5,4 +5,9 @@ h1 {
 
 body { 
     background-color: grey;
+    background-image: url(images/Date\ alive.png);
+}
+
+img{
+    size: 10cm 10cm ;
 }
