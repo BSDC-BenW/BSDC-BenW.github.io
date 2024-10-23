@@ -1,13 +1,12 @@
 h1 {
-    color: white;
+    color: black;
     
 }
 
 body { 
     background-color: grey;
-    background-image: url(images/Date\ alive.png);
+    background-image: url(images/Kurumi.png);
+background-size: cover;
+background-repeat: no-repeat;
 }
 
-img{
-    size: 10cm 10cm ;
-}
