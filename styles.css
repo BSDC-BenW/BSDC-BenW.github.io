@@ -1,12 +1,27 @@
+html{
+    height: 100%;
+    margin: 0%;
+    border: 2px red;
+}
+
 h1 {
     color: black;
+    text-align: center;
+    font-size: 100px;
+    margin: auto;
+    background-color: lightcoral;
+    border: 2px solid;
+    border-color: white;
+
     
 }
 
 body { 
-    background-color: grey;
+    background-color: lightcoral;
     background-image: url(images/Kurumi.png);
 background-size: cover;
 background-repeat: no-repeat;
+margin:0%;
+height: 100%;
 }
 
